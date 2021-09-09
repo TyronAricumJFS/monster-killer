@@ -14,7 +14,7 @@ function adjustHealthBars(maxLife) {
   playerHealthBar.value = maxLife;
 }
 
-function testfunction(max) {
+function testme(here) {
   return 0;
 }
 
